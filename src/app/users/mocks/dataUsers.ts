@@ -24,7 +24,7 @@ export const usersData = [
     name: 'Mrs. Dennis Schulist'
   },
   {
-    i: 7,
+    id: 7,
     name: 'Kurtis Weissnat'
   }
 ];

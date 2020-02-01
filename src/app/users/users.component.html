@@ -3,6 +3,5 @@
   class="btn"
   (click)="showUsers()">Get users
 </button>
-<!--<p *ngIf="isUsersShow">yoyo</p>-->
 
 <app-user *ngFor="let user of users" [user]="user"></app-user>
